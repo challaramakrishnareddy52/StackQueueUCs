@@ -1,0 +1,2 @@
+# StackQueueUCs
+create a stack 
